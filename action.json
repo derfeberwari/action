@@ -1,39 +1,39 @@
 {
-  "Drama" =[
+  "Drama":[
     {
-      "wene1":'https://images.alphacoders.com/134/thumb-440-1348487.webp',
-      "wene":'https://images.unsplash.com/photo-1644760504323-c6b0c09eff8f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fHNwaWRlcm1hbnxlbnwwfHwwfHx8MA%3D%3D',
-       "ism":'3 سبايدرمان',
-      "nav":'Spider Man 3',
-    "action":'film',
-    "aaction":': Action',
-    "raiting":'star',
-    "araitng":': 6.3',
-    "time":'time-sharp',
-    "atime":': 2h 19m',
-    "trailer":'Trailer',
-    "youtube":'e5wUilOeOmg?si=pXE7PdKs2jeT2nOv',
-"play":'https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/yt.mp4?alt=media&token=5100d737-700d-4811-8200-6926a933bcac',
- "kurti":'Kurti :',
- "akurti":'Digel ku nasnameya Spider-Man nuha eşkere bû, Peter ji Doktor Strange alîkariyê dixwaze. Dema ku efsûnek xelet diçe, dijminên xeternak ji cîhanên din dest pê dikin, ku Petrûs neçar dikin ku kifş bike ka bi rastî tê çi wateyê ku meriv Spider-Man e.'
+      "wene1":"https://images.alphacoders.com/134/thumb-440-1348487.webp",
+      "wene":"https://images.unsplash.com/photo-1644760504323-c6b0c09eff8f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fHNwaWRlcm1hbnxlbnwwfHwwfHx8MA%3D%3D",
+      "ism":"3 سبايدرمان",
+      "nav":"Spider Man 3",
+    "action":"film",
+    "aaction":": Action",
+    "raiting":"star",
+    "araitng":": 6.3",
+    "time":"time-sharp",
+    "atime":": 2h 19m",
+    "trailer":"Trailer",
+    "youtube":"e5wUilOeOmg?si=pXE7PdKs2jeT2nOv",
+"play":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/yt.mp4?alt=media&token=5100d737-700d-4811-8200-6926a933bcac",
+ "kurti":"Kurti :",
+ "akurti":"Digel ku nasnameya Spider-Man nuha eşkere bû, Peter ji Doktor Strange alîkariyê dixwaze. Dema ku efsûnek xelet diçe, dijminên xeternak ji cîhanên din dest pê dikin, ku Petrûs neçar dikin ku kifş bike ka bi rastî tê çi wateyê ku meriv Spider-Man e."
 
     },
  {
-      "wene1":'https://images.alphacoders.com/134/thumb-440-1348487.webp',
-      "wene":'https://images.unsplash.com/photo-1644760504323-c6b0c09eff8f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fHNwaWRlcm1hbnxlbnwwfHwwfHx8MA%3D%3D',
-       "ism":'3 سبايدرمان',
-      "nav":'Spider Man 3',
-    "action":'film',
-    "aaction":': Action',
-    "raiting":'star',
-    "araitng":': 6.3',
-    "time":'time-sharp',
-    "atime":': 2h 19m',
-    "trailer":'Trailer',
-    "youtube":'e5wUilOeOmg?si=pXE7PdKs2jeT2nOv',
-"play":'https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/yt.mp4?alt=media&token=5100d737-700d-4811-8200-6926a933bcac',
- "kurti":'Kurti :',
- "akurti":'Digel ku nasnameya Spider-Man nuha eşkere bû, Peter ji Doktor Strange alîkariyê dixwaze. Dema ku efsûnek xelet diçe, dijminên xeternak ji cîhanên din dest pê dikin, ku Petrûs neçar dikin ku kifş bike ka bi rastî tê çi wateyê ku meriv Spider-Man e.'
+      "wene1":"https://images.alphacoders.com/134/thumb-440-1348487.webp",
+      "wene":"https://images.unsplash.com/photo-1644760504323-c6b0c09eff8f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fHNwaWRlcm1hbnxlbnwwfHwwfHx8MA%3D%3D",
+      "ism":"3 سبايدرمان",
+      "nav":"Spider Man 3",
+    "action":"film",
+    "aaction":": Action",
+    "raiting":"star",
+    "araitng":": 6.3",
+    "time":"time-sharp",
+    "atime":": 2h 19m",
+    "trailer":"Trailer",
+    "youtube":"e5wUilOeOmg?si=pXE7PdKs2jeT2nOv",
+"play":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/yt.mp4?alt=media&token=5100d737-700d-4811-8200-6926a933bcac",
+ "kurti":"Kurti :",
+ "akurti":"Digel ku nasnameya Spider-Man nuha eşkere bû, Peter ji Doktor Strange alîkariyê dixwaze. Dema ku efsûnek xelet diçe, dijminên xeternak ji cîhanên din dest pê dikin, ku Petrûs neçar dikin ku kifş bike ka bi rastî tê çi wateyê ku meriv Spider-Man e."
 
     }
  ]
